@@ -7,6 +7,7 @@ function myFunction(){
     document.getElementById("myH1").setAttribute("class", "democlass")
 }
 
+
 // Create Element
 // const heading = document.createElement("h2");
 // //get the parent
